@@ -15,10 +15,6 @@ Repository Contents
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production file (gerber .zip)
 
-For sale
--------------------
-I have 50 of them, if you need, I can send you a few for free, just for the price of the post service.
-
 Manufacturing
 -------------------
 You can have it manufactured cheaply via https://jlcpcb.com . Just take the zip in Production folder, upload to JLCPCB and select correct thickness (less than 0.75 mil to fit into microSD slot). You can leave the rest in default.
